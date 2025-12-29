@@ -18,11 +18,10 @@
 
 ```yaml
 name: Harish Chand
-role: DevOps Engineer & Software Developer
-location: 🌍 Your Location
+role: Software Developer & DevOps Engineer
+location: 🌍 California, USA
 currently_working_on: Cloud Infrastructure & Automation
 learning: Advanced Kubernetes Patterns & Cloud-Native Technologies
-fun_fact: I automate things that shouldn't take more than 90 seconds to do manually
 ```
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
