@@ -48,7 +48,9 @@ A **three-node physical Kubernetes cluster** I built and run myself, used as a h
 | 🚀 **Workloads** | Different kinds of apps, APIs and services deployed to the cluster |
 | 🌐 **Ingress & Proxy** | Nginx Proxy Manager for routing, reverse proxying and SSL certificates |
 | 📈 **Monitoring** | Prometheus for metrics collection and Grafana dashboards |
-| 🐘 **Database** | CloudNativePG, a cloud-native PostgreSQL operator, for managed Postgres clusters |
+| 🐘 **Database** | PostgreSQL cluster, Redis, |
+| 📨 **Messaging & Streaming** | RabbitMQ for message queuing and Apache Kafka for event streaming |
+| 🛡️ **Network & DNS** | Pi-hole for network-wide DNS and ad blocking |
 
 <br clear="both"/>
 
