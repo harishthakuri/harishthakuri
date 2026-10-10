@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Harish%20Chand&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20|%20.NET%20Developer%20|%20Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Harish%20Chand&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer%20|%20.NET%20Developer%20|%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+scalable+cloud+infrastructure+%E2%98%81%EF%B8%8F;Crafting+elegant+code+solutions+%F0%9F%92%BB;Automating+everything+%F0%9F%A4%96" alt="Typing SVG" /></a>
@@ -18,10 +18,8 @@
 
 ```yaml
 name: Harish Chand
-role: Software Developer & DevOps Engineer
+role: Full-Stack AI Engineer & DevOps Engineer
 location: 🌍 California, USA
-currently_working_on: Cloud Infrastructure & Automation
-learning: Advanced Kubernetes Patterns & Cloud-Native Technologies
 ```
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
