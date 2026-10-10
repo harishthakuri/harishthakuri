@@ -1,43 +1,54 @@
-
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Harish%20Chand&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer%20|%20.NET%20Developer%20|%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Harish%20Chand&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer%20|%20.NET%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+scalable+cloud+infrastructure+%E2%98%81%EF%B8%8F;Crafting+elegant+code+solutions+%F0%9F%92%BB;Automating+everything+%F0%9F%A4%96" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI-powered+full-stack+apps+%F0%9F%A4%96;Designing+agentic+AI+workflows+%F0%9F%A7%A0;Learning+Kubernetes+in+my+homelab+%E2%98%B8%EF%B8%8F" alt="Typing SVG" /></a>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" /> -->
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
 ```yaml
 name: Harish Chand
-role: Full-Stack AI Engineer & DevOps Engineer
+role: Full-Stack AI Engineer & .NET Full-Stack Developer
 location: 🌍 California, USA
 ```
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
-- 🔭 I'm currently working on **Cloud-Native Solutions & DevOps Pipelines**
-- 🌱 I'm currently learning **Advanced Kubernetes Operators & GitOps**
-- 👯 I'm looking to collaborate on **Open Source DevOps Tools**
-- 💬 Ask me about **.NET, Python, Kubernetes, CI/CD, Cloud Architecture**
+I'm a **.NET full-stack developer** who has spent the last couple of years working as a **full-stack AI engineer**. I build production web apps and APIs with C#/.NET and Python, and I add LLM features to them: RAG pipelines, AI agents, and workflow automation.
+
+Outside work I run a **three-node bare-metal Kubernetes cluster** at home, where I learn cloud-native infrastructure by running real workloads on it.
+
+- 🔭 Currently building **agentic AI apps with Pydantic AI, LangChain & LangGraph**
+- 🌱 Currently learning **Kubernetes, GitOps & cloud-native operations** in my homelab
+- 👯 Open to collaborating on **AI agents, LLM tooling & homelab projects**
+- 💬 Ask me about **.NET, Python, LLM apps, AI agents, n8n automation**
 - 📫 How to reach me: **codemaverick80@gmail.com**
-- ⚡ Fun fact: **I believe in Infrastructure as Code - if it's not in Git, it doesn't exist!**
+- ⚡ Fun fact: **My homelab is my favorite place to break things on purpose**
 
 <br clear="both"/>
 
 ---
 
-## Thinks I've Built
+## 🧪 Things I've Built
 
-Kubernetes Homelab
+### ☸️ Kubernetes Homelab
+
+A **three-node physical Kubernetes cluster** I built and run myself, used as a hands-on lab for learning how production infrastructure works.
+
+| Area | What's running |
+| :--- | :--- |
+| 🚀 **Workloads** | Different kinds of apps, APIs and services deployed to the cluster |
+| 🌐 **Ingress & Proxy** | Nginx Proxy Manager for routing, reverse proxying and SSL certificates |
+| 📈 **Monitoring** | Prometheus for metrics collection and Grafana dashboards |
+| 🐘 **Database** | CloudNativePG, a cloud-native PostgreSQL operator, for managed Postgres clusters |
 
 <br clear="both"/>
 
@@ -48,6 +59,7 @@ Kubernetes Homelab
 <div align="center">
 
 ### Languages & Frameworks
+
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,7 +67,19 @@ Kubernetes Homelab
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### DevOps & Cloud
+### AI & LLM
+
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-667EEA?style=for-the-badge&logo=robotframework&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+### Kubernetes & Infrastructure
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
@@ -63,13 +87,16 @@ Kubernetes Homelab
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Flux CD](https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=flux&logoColor=white)
+![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?style=for-the-badge&logo=nginxproxymanager&logoColor=white)
 
 ### Cloud Platforms
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### CI/CD & Version Control
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -77,7 +104,9 @@ Kubernetes Homelab
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Databases & Monitoring
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![CloudNativePG](https://img.shields.io/badge/CloudNativePG-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -85,109 +114,33 @@ Kubernetes Homelab
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Operating Systems & Tools
+
+
+<!--![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-C90F5E?style=for-the-badge&logo=rider&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FE315D?style=for-the-badge&logo=intellijidea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&logo=webstorm&logoColor=black)
+![DataGrip](https://img.shields.io/badge/DataGrip-22D88F?style=for-the-badge&logo=datagrip&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-
-</div>
-
----
-
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2)
-
-</div>
-
----
-
-## 📜 Certifications & Achievements
-
-<div align="center">
-
-| Certification | Issuer | Year |
-|:-------------:|:------:|:----:|
-| 🎖️ Certified Kubernetes Administrator (CKA) | CNCF | 2024 |
-| 🎖️ AWS Solutions Architect | Amazon | 2024 |
-| 🎖️ Azure DevOps Engineer Expert | Microsoft | 2024 |
-| 🎖️ HashiCorp Terraform Associate | HashiCorp | 2024 |
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_DEVTO)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
 
 <div align="center">
 
 ### 💡 Random Dev Quote
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 <div align="center">
-  
-### ☕ Support My Work
-
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-
+  <i>⭐️ From <a href="https://github.com/harishthakuri">Harish Chand</a> | Happy Coding! 🚀</i>
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Harish Chand</a> | Happy Coding! 🚀</i>
-</div>
-
-
